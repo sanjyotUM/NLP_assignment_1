@@ -1,0 +1,13 @@
+1. Description of 3 additional features
+	a. Left word contains period
+	b. Right word is comma
+	c. Length of left word
+
+2. Program is complete. It compiles without errors, outputs the training and test accuracy
+at standard output and also generates SBD.test.out file.
+
+3. Test accuracy with all 8 features: 97.61%
+
+4. Test accuracy with only 5 core features: 97.12%
+
+5. Test accuracy with the 3 additional features only: 82.68%
