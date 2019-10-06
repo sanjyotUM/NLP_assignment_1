@@ -45,5 +45,4 @@ Quaker           Oats             18.716876
 Jell-O           Cheez            18.716876
 warn-your-enemy  nuance           18.716876
 
-4. Based on the results above, chi-square score approach works better in figuring out 
-the collocations since it was able to find much more proper noun bigrams than PMI approach.
+4. Based on the results above, chi-square score approach works better in figuring out the collocations since it was able to find much more proper noun bigrams than the PMI approach.
