@@ -1,0 +1,49 @@
+1. Program is complete. It compiles without errors, calculates the asked measure and outputs
+the top 20 bigrams in reverse order of their asked score.
+
+2. Top 20 bigrams with highest chi-square score
+whooping        cough        430865.000005
+Hang            Seng         430865.000005
+Bare-Faced      Messiah      430865.000005
+Aga             Khan         430865.000005
+COMMERCIAL      PAPER        430865.000005
+Learning        Materials    430865.000005
+Roederer        Cristal      430865.000005
+Palo            Alto         430865.000005
+on-again        off-again    430865.000005
+PRECIOUS        METALS       430865.000005
+gon             na           430865.000005
+Kuala           Lumpur       430865.000005
+Puerto          Rico         430865.000005
+Leche           Fresca       430865.000005
+Kohlberg        Kravis       430865.000005
+der             Heyden       430865.000005
+Chips           Ahoy         430865.000005
+intellectually  honest       430865.000005
+nondescript     two-story    430865.000005
+J.E.            Buster       430865.000005
+
+3. Top 20 bigrams with highest PMI score
+limply           constructed      18.716876
+leaky            unlabeled        18.716876
+Jeffery          Logsdon          18.716876
+low-altitude     navigation       18.716876
+Hence            copious          18.716876
+BLOCKBUSTER      ENTERTAINMENT    18.716876
+Julie            Amparano         18.716876
+Aztec            Mixtec           18.716876
+QUANTUM          CHEMICAL         18.716876
+shaving          brush            18.716876
+Cinzano          umbrellas        18.716876
+exorcise         unruly           18.716876
+furloughs        attrition        18.716876
+Azerbaijan       25.7             18.716876
+Azem             Vlasi            18.716876
+Ciera            Wagon            18.716876
+Julius           Baer             18.716876
+Quaker           Oats             18.716876
+Jell-O           Cheez            18.716876
+warn-your-enemy  nuance           18.716876
+
+4. Based on the results above, chi-square score approach works better in figuring out 
+the collocations since it was able to find much more proper noun bigrams than PMI approach.
