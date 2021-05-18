@@ -22,7 +22,11 @@ where `<measure>` could be either `chi-square` of `PMI`.
 
 Program should produce top 20 bigrams with their scores on the standard output.
 
+## Output
+![Sample output of the programs](./code_run_screenshot.png)
+
 ## Dependencies
 Make sure you have
-- Nummpy
+- Numpy
 - Pandas
+
